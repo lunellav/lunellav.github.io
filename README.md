@@ -8,6 +8,7 @@ I am passionate about coding and have developed a solid foundation in C++ and Ja
 
 ## Completed Projects
 - [Word Puzzle in C++](https://github.com/lunellav/Word-Puzzle.git)
+- [Employee Storage System in Java](https://github.com/lunellav/Employee-Storage-System.git)
 
 ## Ongoing Projects
 
