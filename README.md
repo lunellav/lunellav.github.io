@@ -6,6 +6,9 @@ Hello, I'm Vera Valenti, an international student from Indonesia currently pursu
 
 I am passionate about coding and have developed a solid foundation in C++ and Java. Currently, I am expanding my skill set by diving into web development, learning HTML, CSS, and JavaScript. I am actively involved in several ongoing projects, both as part of my coursework and independently.
 
+## Completed Projects
+- [Word Puzzle in C++](https://github.com/lunellav/Word-Puzzle.git)
+
 ## Ongoing Projects
 
 - **Search and Rescue Robot:** I am leading a team in the development of a search and rescue robot. We are gearing up to enter a competition hosted by SkillsUSA, leveraging our technical skills to make a positive impact.
@@ -23,4 +26,4 @@ I am passionate about coding and have developed a solid foundation in C++ and Ja
 
 Feel free to explore my portfolio to see the coding projects I've worked on. I'm excited about the journey ahead and eager to contribute my skills to meaningful projects.
 
-[Contact Me](verathing@gmail.com) | [GitHub](https://github.com/lunellav)
+[Email Me](mailto:verathing@gmail.com) | [GitHub](https://github.com/lunellav)
