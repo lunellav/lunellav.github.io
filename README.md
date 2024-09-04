@@ -1,6 +1,6 @@
 # lunellav.github.io
 
-Hello, I'm Vera Valenti, an international student from Indonesia currently pursuing an Engineering Associates degree at Harper College. Welcome to my portfolio, where I showcase examples of my coding projects.
+Hello, I'm Vera Valenti, an international student from Indonesia currently enrolled in a CS + Advertising major at the University of Illinois, Urbana-Champaign. Welcome to my portfolio, where I showcase examples of my coding projects.
 
 ## About Me
 
@@ -17,8 +17,8 @@ I am passionate about coding and have developed a solid foundation in C++ and Ja
 
 ## Education
 
-- **Degree:** Engineering Associates
-- **Institution:** Harper College
+- **Degree:** Nachelors in CS+Advertising
+- **Institution:** University of Illinois, Urbana-Champaign
 
 ## Skills
 
