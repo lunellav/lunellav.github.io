@@ -17,7 +17,7 @@ I am passionate about coding and have developed a solid foundation in C++ and Ja
 
 ## Education
 
-- **Degree:** Nachelors in CS+Advertising
+- **Degree:** Bachelors in CS+Advertising
 - **Institution:** University of Illinois, Urbana-Champaign
 
 ## Skills
